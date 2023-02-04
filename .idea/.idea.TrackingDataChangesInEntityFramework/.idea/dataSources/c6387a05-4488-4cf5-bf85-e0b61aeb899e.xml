@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="StudentApp@.">
+  <database-model serializer="dbm" dbms="MSSQL" family-id="MSSQL" format-version="4.48">
+    <root id="1"/>
+    <database id="2" parent="1" name="StudentApp">
+      <Current>1</Current>
+    </database>
+    <database id="3" parent="1" name="master"/>
+    <database id="4" parent="1" name="model"/>
+    <database id="5" parent="1" name="msdb"/>
+    <database id="6" parent="1" name="tempdb"/>
+    <schema id="7" parent="2" name="INFORMATION_SCHEMA"/>
+    <schema id="8" parent="2" name="db_accessadmin"/>
+    <schema id="9" parent="2" name="db_backupoperator"/>
+    <schema id="10" parent="2" name="db_datareader"/>
+    <schema id="11" parent="2" name="db_datawriter"/>
+    <schema id="12" parent="2" name="db_ddladmin"/>
+    <schema id="13" parent="2" name="db_denydatareader"/>
+    <schema id="14" parent="2" name="db_denydatawriter"/>
+    <schema id="15" parent="2" name="db_owner"/>
+    <schema id="16" parent="2" name="db_securityadmin"/>
+    <schema id="17" parent="2" name="dbo">
+      <Current>1</Current>
+      <IntrospectionTimestamp>2023-02-05.01:13:27.373</IntrospectionTimestamp>
+    </schema>
+    <schema id="18" parent="2" name="guest"/>
+    <schema id="19" parent="2" name="sys"/>
+  </database-model>
+</dataSource>

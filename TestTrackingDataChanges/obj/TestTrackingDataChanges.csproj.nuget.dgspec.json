@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200-preview.22628.1\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -120,6 +120,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "C:\\Users\\nirza\\OneDrive\\Documents\\MScFinalProjectCode": {},
           "https://www.nuget.org/api/v2": {}
         },
@@ -199,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200-preview.22628.1\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23225.8\\RuntimeIdentifierGraph.json"
         }
       }
     }

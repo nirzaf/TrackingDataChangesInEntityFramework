@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="RD-231.6471.8">
+  <component name="dataSourceStorageLocal" created-in="RD-231.9011.39">
     <data-source name="StudentApp@." uuid="c6387a05-4488-4cf5-bf85-e0b61aeb899e">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL" exact-version="0" />
+      <database-info product="Microsoft SQL Server" version="16.00.1000" jdbc-version="4.2" driver-name="JetBrains JDBC Driver for SQL Server" driver-version="1.0" dbms="MSSQL" exact-version="16.0.1000" exact-driver-version="1.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <secret-storage>forget</secret-storage>
-      <schema-mapping />
+      <auth-provider>ms-sso</auth-provider>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
     </data-source>
   </component>
 </project>

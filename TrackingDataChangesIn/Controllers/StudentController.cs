@@ -4,17 +4,6 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace TrackingDataChangesInEntityFramework.Controllers;
 
-/*
-    public Guid Id { get; set; } 
-    public string Name { get; set; }
-    public string Email { get; set; }
-    public string Phone { get; set; }
-    public string Address { get; set; }
-    public string City { get; set; }
-    public string State { get; set; }
-    public string Zip { get; set; }
- */
-
 public class StudentController : Controller
 {
     private readonly StudentContext _context;
@@ -35,8 +24,7 @@ public class StudentController : Controller
     public async Task<Student> GetStudent(int id)
     {
         //Get student from database
-        var student = await _context.Students.FindAsync(id);
-        return student;
+        return await _context.Students.FindAsync(id) ?? new Student();
     }
     
     [HttpPost("api/students")]
@@ -55,7 +43,8 @@ public class StudentController : Controller
         };
         _context.Students.Add(newStudent);
         await _context.SaveChangesAsync();
-        return Ok();
+        //return created entity Id to client
+        return Ok(newStudent.Id);
     }
     
     [HttpPut("api/students")]
