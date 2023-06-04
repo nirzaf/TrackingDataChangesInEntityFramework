@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTrackingDataChanges", "TestTrackingDataChanges\TestTrackingDataChanges.csproj", "{69B0345C-E945-4219-9294-88FB4772412A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingDataChangesInEntityFramework", "TrackingDataChangesIn\TrackingDataChangesInEntityFramework.csproj", "{2B5A2D21-29F5-406D-9574-6405C0A47593}"
 EndProject
 Global
@@ -10,10 +8,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{69B0345C-E945-4219-9294-88FB4772412A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{69B0345C-E945-4219-9294-88FB4772412A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{69B0345C-E945-4219-9294-88FB4772412A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{69B0345C-E945-4219-9294-88FB4772412A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2B5A2D21-29F5-406D-9574-6405C0A47593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B5A2D21-29F5-406D-9574-6405C0A47593}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B5A2D21-29F5-406D-9574-6405C0A47593}.Release|Any CPU.ActiveCfg = Release|Any CPU
