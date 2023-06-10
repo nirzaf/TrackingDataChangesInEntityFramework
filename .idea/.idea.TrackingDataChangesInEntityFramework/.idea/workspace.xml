@@ -11,27 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e3b8f8-cc74-4825-ad63-d3100def5fef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackingDataChangesInEntityFramework/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackingDataChangesInEntityFramework/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackingDataChangesInEntityFramework/.idea/dataSources/c6387a05-4488-4cf5-bf85-e0b61aeb899e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackingDataChangesInEntityFramework/.idea/dataSources/c6387a05-4488-4cf5-bf85-e0b61aeb899e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackingDataChangesInEntityFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackingDataChangesInEntityFramework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/trackingdatachangesinentityframework.metadata.v5.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/trackingdatachangesinentityframework.projects.v5.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/FileContentIndex/3079105d-e7b9-47ca-85f4-3563b6d7412c.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/FileContentIndex/47bc90dc-09dc-4b47-a253-3347ca5b0765.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/FileContentIndex/5888bc78-abef-4ab3-aa85-c561911ab2b1.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/FileContentIndex/d1773ecb-53f0-44b0-b061-e97d8d0fd0ea.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/v17/.futdcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TrackingDataChangesInEntityFramework/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/TestStudentAPI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/Debug/net7.0/TestTrackingDataChanges.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/Debug/net7.0/TestTrackingDataChanges.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/Debug/net7.0/TestTrackingDataChanges.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/Debug/net7.0/TestTrackingDataChanges.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/TestTrackingDataChanges.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/TestTrackingDataChanges.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/TestTrackingDataChanges.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/TestTrackingDataChanges.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTrackingDataChanges/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TestTrackingDataChanges/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrackingDataChangesIn/Controllers/StudentController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TrackingDataChangesIn/Controllers/StudentController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bd1d5c50194fea68ff3559c160230b0ab50f5acf4ce3061bffd6d62958e2182/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestTrackingDataChanges/TestStudentAPI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestTrackingDataChanges/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestTrackingDataChanges/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestTrackingDataChanges/obj/Debug/net6.0/TestTrackingDataChanges.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestTrackingDataChanges/obj/Debug/net6.0/TestTrackingDataChanges.GlobalUsings.g.cs" root0="SKIP_HIGHLIGHTING" />
@@ -52,13 +38,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JiZ0Lqeu1rjXjI3Wwmyo0ELLRt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DismissAzureAdRegistration&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -152,6 +141,9 @@
       <workItem from="1682534604232" duration="215000" />
       <workItem from="1682535086957" duration="214000" />
       <workItem from="1685301609405" duration="644000" />
+      <workItem from="1685887208854" duration="326000" />
+      <workItem from="1686387043203" duration="47000" />
+      <workItem from="1686387118379" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="commit changes">
       <created>1672572133326</created>
@@ -181,18 +173,45 @@
       <option name="project" value="LOCAL" />
       <updated>1675537824422</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="UpdateStudent">
+      <created>1685887393003</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685887393003</updated>
+    </task>
+    <task id="LOCAL-00006" summary="remove testing">
+      <created>1685887510064</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685887510064</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit changes" />
     <MESSAGE value="UpdateStudent" />
-    <option name="LAST_COMMIT_MESSAGE" value="UpdateStudent" />
+    <MESSAGE value="remove testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove testing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

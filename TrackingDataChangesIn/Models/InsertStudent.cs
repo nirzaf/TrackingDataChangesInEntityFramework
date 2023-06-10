@@ -1,11 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace TrackingDataChangesInEntityFramework.Controllers;
 
-public class Student
+public class InsertStudent
 {
     [Key]
-    public Guid Id { get; set; } 
+    public Guid Id { get; set; } = Guid.NewGuid();
     public string Name { get; set; }
     public string Email { get; set; }
     public string Phone { get; set; }
